@@ -1,0 +1,13 @@
+﻿  PTA第六周.cpp
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(8,22): error C2146: 语法错误: 缺少“;”(在标识符“；”的前面)
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(8,22): error C2065: “；”: 未声明的标识符
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(9,2): error C2143: 语法错误: 缺少“;”(在“else”的前面)
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(9,2): error C2181: 没有匹配 if 的非法 else
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(10,25): error C2146: 语法错误: 缺少“;”(在标识符“；”的前面)
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(10,25): error C2065: “；”: 未声明的标识符
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(11,3): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(11,12): error C2146: 语法错误: 缺少“;”(在标识符“；”的前面)
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(11,12): error C2065: “；”: 未声明的标识符
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(12,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+G:\新桌面\PTA\PTA第六周\PTA第六周\PTA第六周.cpp(5,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
